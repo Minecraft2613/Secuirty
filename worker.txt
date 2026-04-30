@@ -1,6 +1,6 @@
 {
   "latest_plugin": {
-    "version": "1.5",
+    "version": "1.4",
     "build": 1,
     "features": [
       "Interactive Chat Control Pipeline: Take command of the AI flow with real-time [Stop], [Edit], and [Regenerate] buttons.",
