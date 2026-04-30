@@ -1,0 +1,38 @@
+{
+  "latest_plugin": {
+    "version": "1.4",
+    "features": [
+      "Interactive Chat Control Pipeline: Take command of the AI flow with real-time [Stop], [Edit], and [Regenerate] buttons.",
+      "Dynamic Multi-Stage Response Indicators: Real-time animated status updates.",
+      "Advanced Conversation Chronicles: Complete dialogue mastery with a persistent Checkpoint System.",
+      "Adaptive Memory & Context Engineering: AI-powered Memory Distillation and Tracking.",
+      "Unified Add-on Command Portal (/aia): Standardized modular framework to manage extensions."
+    ]
+  },
+  "security": {
+    "version": "1.0",
+    "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/security.jar"
+  },
+  "bugfixes": {
+    "1.4": {
+      "version": "1.0.5",
+      "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/NSR-AI-1.4-bugfix.jar",
+      "restart_required": true
+    },
+    "1.3": {
+      "version": "1.0.4",
+      "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/NSR-AI-1.3.jar",
+      "restart_required": true
+    },
+    "1.2": {
+      "version": "1.0.3",
+      "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/NSR-AI-1.2.1.jar",
+      "restart_required": true
+    },
+    "1.2-pre": {
+      "version": "1.0.1",
+      "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/NSR-AI-1.2-pre.jar",
+      "restart_required": true
+    }
+  }
+}
