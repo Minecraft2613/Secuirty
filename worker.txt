@@ -10,7 +10,7 @@
     ]
   },
   "security": {
-    "version": "2.2",
+    "version": "2.2", 
     "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/security.jar"
   },
   "bugfix_mapping": {
