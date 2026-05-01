@@ -1,7 +1,7 @@
 
 {
   "plugin": {
-    "latest_version": "1.4",
+    "latest_version": "1.5",
     "features": [
       "Interactive Chat Control Pipeline: [Stop], [Edit], and [Regenerate] buttons.",
       "Dynamic Multi-Stage Response Indicators (Thinking, Processing, Analyzing).",
