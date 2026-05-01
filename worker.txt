@@ -26,6 +26,5 @@
       "version": "1.0.4",
       "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/NSR-AI-1.3.jar"
     }
-    }
   }
 }
