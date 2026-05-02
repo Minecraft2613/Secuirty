@@ -12,7 +12,7 @@
   },
   "security": {
     "version": "3.5", 
-    "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/security.jar"
+    "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/security-3.5.jar"
   },
   "bugfix_mapping": {
     "1.2-pre": {
