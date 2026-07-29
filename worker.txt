@@ -11,8 +11,8 @@
     ]
   },
   "security": {
-    "version": "3.5", 
-    "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/security-3.5.jar"
+    "version": "2.0", 
+    "download_url": "https://github.com/Minecraft2613/Secuirty/raw/main/security-2.0jar"
   },
   "bugfix_mapping": {
     "1.2-pre": {
